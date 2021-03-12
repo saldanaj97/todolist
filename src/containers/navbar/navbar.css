@@ -1,0 +1,14 @@
+.top-navbar {
+  background-color: grey;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+.navbar-text {
+  height: auto;
+  align-items: center;
+  font-size: 35px;
+  text-decoration: none;
+  color: white;
+}
