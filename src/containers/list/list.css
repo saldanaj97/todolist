@@ -1,0 +1,21 @@
+.task-container {
+  text-align: center;
+  margin: 50px;
+  height: auto;
+}
+
+.list-container {
+  display: flex;
+  width: 200px;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.list-item {
+  background-color: grey;
+  width: 100%;
+  padding: 10px;
+  height: auto;
+  color: white;
+}
